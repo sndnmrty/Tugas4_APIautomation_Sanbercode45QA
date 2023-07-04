@@ -3,7 +3,7 @@ Repository ini merupan salah satu bentuk penugasan dari kelas Sanber Code Qualit
 ## Video
 Video execution bisa diakses di link berikut:
 ```
-https://drive.google.com/file/d/17cs5Iwds4x8OpQScFEc_BPHLpskSgK4M/view?usp=sharing
+https://drive.google.com/file/d/1U7ahYk7wY_d2erH5pysZTfiTA363UGOU/view?usp=sharing
 ```
 ## Execution
 ### How to run
@@ -17,7 +17,7 @@ npm i jsonschema
 ```
 2. Execution
 ```
-mocha test.js
+npx mocha test.js
 ```   
 ### Screenshoot execution
 Screenshoot hasil execution bisa diakses di link berikut:
@@ -36,6 +36,10 @@ mocha test.js --reporter mochawesome
 ```
 3. Open mochawesome report
 Open file mochawesome.html di folder mochawesome-report
+```
+cd mochawesome-report
+start mochawesome.html
+```
 ### Screenshoot mochawesome-report
 Screenshoot hasil eksekusi mochawesome.html bisa diakses di link berikut:
 ```
